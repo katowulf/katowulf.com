@@ -1,0 +1,23 @@
+{
+  "hosting": {
+    "public": "app",
+    "redirects": [
+      {
+        "source" : "/ngphx",
+        "destination" : "/ngphx2016.html",
+        "type" : 301
+      },
+      {
+        "source" : "/ng-phx",
+        "destination" : "/ngphx2016.html",
+        "type" : 301
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
