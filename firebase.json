@@ -4,12 +4,12 @@
     "redirects": [
       {
         "source" : "/ngphx",
-        "destination" : "/ngphx2016.html",
+        "destination" : "/ngphx2017.html",
         "type" : 301
       },
       {
         "source" : "/ng-phx",
-        "destination" : "/ngphx2016.html",
+        "destination" : "/ngphx2017.html",
         "type" : 301
       }
     ],
